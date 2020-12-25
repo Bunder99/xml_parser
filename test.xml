@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<people>
+	<person full_name="I.Ivanov">
+		<start>21-12-2011 10:54:47</start>
+		<end>21;12-2011 19.43:02</end>
+	</person>
+	<person full_name="a.stepAnoVa">
+		<start>21-12-2011 22:59:15</start>
+		<end>22-12-2011 06:40:10</end>
+	</person>
+	<person full_name="a.stepAnoVa">
+		<start>21-12-2011 22:59:15</start>
+		<end>22-12-2011 06:40:10</end>
+	</person>
+	<person full_name="v.lomachenko-ivanov">
+		<start>23-12-2011 07:49:35</start>
+		<end>23-12-2011 17/43/19</end>
+	</person>
+	<person full_name="k.kirillov999()@">
+		<start>23-12-2011 09:35:35</start>
+		<end></end>
+	</person>
+	<person full_name="">
+		<start>23-12-2011 11:33:35</start>
+		<end>23-12-2011 19/47/19</end>
+	</person>
+	<person full_name="565575;">
+		<start>25-12-2011 22:59:15</start>
+		<end>25-12-2011 23:40:10</end>
+	</person>
+	<person full_name="v.petrov5675%">
+		<start>21\12\2011 20\59:15</start>
+		<end>25_12_2011 09:40:10</end>
+	</person>
+</people>
